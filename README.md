@@ -1,1 +1,1 @@
-# AI-assignment
+Rock Paper Scissor game
